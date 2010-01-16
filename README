@@ -1,0 +1,9 @@
+NSF (Nintendo Sound File) meta data extractor
+January 2009 by Matt Hackett (http://richtaur.com/)
+
+Usage:
+./extract.php Blaster_Master.nsf 
+Name: Blaster Master
+Songs: 16
+Artist: Naoki Kodaka & Marumo
+Copyright: 1988 Sun Corporation
